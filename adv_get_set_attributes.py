@@ -60,5 +60,5 @@ for pet in pets:
 for pet in pets:
     if pet.get_category() == "Dog":
         print(pet)
-        print()
+        print("CHANGES")
 
